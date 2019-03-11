@@ -1,3 +1,7 @@
+package рц3;
+
+import рц3.NewThread;
+
 public class ThreadDemo {
     public static void main(String[] args) {
         new NewThread();

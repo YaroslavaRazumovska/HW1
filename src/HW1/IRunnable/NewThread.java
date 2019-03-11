@@ -1,3 +1,5 @@
+package рц3;
+
 public class NewThread implements Runnable {
     Thread t;
 
