@@ -1,8 +1,6 @@
-package рц3;
+package HW1.Task1.ThreadExtend;
 
-import рц3.NewThread;
-
-public class ThreadDemo {
+public class ThreadTry {
     public static void main(String[] args) {
         new NewThread();
 

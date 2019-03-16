@@ -1,4 +1,4 @@
-package рц3;
+package HW1.Task1.IRunnable;
 
 public class NewThread implements Runnable {
     Thread t;
