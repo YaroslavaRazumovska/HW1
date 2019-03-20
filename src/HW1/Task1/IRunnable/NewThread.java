@@ -1,3 +1,5 @@
+package HW1.Task1.IRunnable;
+
 public class NewThread implements Runnable {
     Thread t;
 
@@ -9,7 +11,7 @@ public class NewThread implements Runnable {
         try {
             while(true) {
                 System.out.println(t.getName());
-                Thread.sleep(5000);
+                Thread.sleep(5000);//
             }
         } catch (InterruptedException e) {
             System.out.println("Thread is interrupted");

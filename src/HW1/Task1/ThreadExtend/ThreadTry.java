@@ -1,4 +1,6 @@
-public class ThreadDemo {
+package HW1.Task1.ThreadExtend;
+
+public class ThreadTry {
     public static void main(String[] args) {
         new NewThread();
 
